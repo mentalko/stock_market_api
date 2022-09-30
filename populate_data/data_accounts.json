@@ -1,0 +1,35 @@
+[
+  {
+    "full_name": "Alexey Petrov",
+    "email": "a.valny@gg.com",
+    "hashed_password": "hashed_password",
+    "registration_date": "2010-09-23",
+    "deposited_usd": 1000,
+    "share_list": [
+      "BABA",
+      "TSLA"
+    ]
+  },
+  {
+    "full_name": "Ilya Ivashenkov",
+    "email": "ilya_or@mail.com",
+    "hashed_password": "hashed_password",
+    "registration_date": "2014-02-01",
+    "deposited_usd": 51322,
+    "share_list": [
+      "BABA",
+      "TSLA"
+    ]
+  },
+  {
+    "full_name": "Sergey Bashkirov",
+    "hashed_password": "hashed_password",
+    "email": "Ivashenkov@mail.com",
+    "registration_date": "2009-10-12",
+    "deposited_usd": 101,
+    "share_list": [
+      "BABA",
+      "TSLA"
+    ]
+  }
+]

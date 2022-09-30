@@ -1,0 +1,10 @@
+fastapi
+fastapi_pagination
+
+uvicorn
+pydantic
+pydantic[email]
+python-dotenv
+
+motor
+beanie

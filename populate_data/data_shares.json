@@ -1,0 +1,24 @@
+[
+    {
+        "ticker": "TSLA",
+        "title": "Tesla",
+        "currency": "USD",
+        "close_price": 720.11,
+        "description": "Tesla, Inc. is an American multinational automotive and clean energy company headquartered in Austin, Texas"
+    },
+    {
+        "ticker": "BABA",
+        "title": "Alibaba",
+        "currency": "USD",
+        "close_price": 145.88,
+        "description": "Alibaba Group Holding Limited, also known as Alibaba, is a Chinese multinational technology company specializing in e-commerce, retail, Internet, and technology"
+    },
+    {
+        "ticker": "TAL",
+        "title": "TAL Education Group",
+        "currency": "USD",
+        "close_price": 6.20,
+        "description": "TAL Education Group is a Chinese holding company that offers after-school education and tutoring for students in primary and secondary school."
+    }
+
+]

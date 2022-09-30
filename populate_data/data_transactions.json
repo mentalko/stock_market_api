@@ -1,0 +1,50 @@
+[
+  {
+    "account_id": "633757e56d9905f4c862f91a",
+    "ticker": "TSLA",
+    "count": 10,
+    "deal_price": 120.99,
+    "deal_date": "2020-09-22"
+  },
+  {
+    "account_id": "633757e56d9905f4c862f91a",
+    "ticker": "TAL",
+    "count": 230,
+    "deal_price": 4.30,
+    "deal_date": "2020-02-01"
+  },
+  {
+    "account_id": "633757e56d9905f4c862f91a",
+    "ticker": "BABA",
+    "count": 3,
+    "deal_price": 126.1,
+    "deal_date": "2020-02-05"
+  },
+  {
+    "account_id": "633757e56d9905f4c862f91a",
+    "ticker": "BABA",
+    "count": 2,
+    "deal_price": 100.1,
+    "deal_date": "2020-02-05"
+  },
+
+
+
+
+  {
+    "account_id": "633757e56d9905f4c862f91b",
+    "ticker": "TSLA",
+    "count": 10,
+    "deal_price": 120.99,
+    "deal_date": "2020-09-22"
+  },
+  {
+    "account_id": "633757e56d9905f4c862f91b",
+    "ticker": "BABA",
+    "count": 20,
+    "deal_price": 100.1,
+    "deal_date": "2020-02-05"
+  }
+
+
+]
